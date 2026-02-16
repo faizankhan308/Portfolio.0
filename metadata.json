@@ -1,0 +1,7 @@
+{
+  "name": "Faizan Khan Portfolio - 3D AI-Enhanced",
+  "description": "A high-performance, 3D interactive portfolio for Faizan Khan, featuring a Gemini-powered AI assistant and immersive React-Three-Fiber visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
