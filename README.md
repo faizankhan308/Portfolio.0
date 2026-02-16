@@ -17,7 +17,7 @@ An interactive and responsive portfolio website built using modern frontend tech
 - Git & GitHub
 
 ## 📌 Live Demo
-(Add your live link here)
+(http://localhost:3005/)
 
 ## 📂 Installation
 
